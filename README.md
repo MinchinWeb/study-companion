@@ -84,24 +84,28 @@ to later dis-intangle my notes from the source material.
   
 ## Samples, Code
 
-<https://www.bookofmormonorigins.com/> provides an example of how the text
-might be combined with notiations. It's built using Ruby + GitBook (I'd rather
-it was in Python) and the site's goal is to undermine the Book of Mormon, but
-it may be possible to crib some of the layout for our own purpose here.
-
-[Annotated Book of
-Mormon](https://annotatededitionofthebookofmormon.wordpress.com/2018/08/31/annotated-edition-of-the-book-of-mormon/)
-is a much more faith-promoting edition of the Book of Mormon, that aims to show
-the Book of Mormon is about Christ, and founded in Biblical prophecies. The
-book is a physical, hard cover book, and so not quite what I'm trying to do
-here, but it's comments on how the text has been re-formatted (see images in
-this repo) are probably in line with what I hope to accomplish.
-
-The [Iron Rod ASCII Scipture](http://ldsguy.tripod.com/Iron-rod/) has a copy of
-the Standard Works in text form.
-
-The HTML5 elemect `<aside>` seems to have been created for sidenotes  like I
-want to create (among other uses).
+- <https://www.bookofmormonorigins.com/> provides an example of how the text
+  might be combined with notiations. It's built using Ruby + GitBook (I'd
+  rather it was in Python) and the site's goal is to undermine the Book of
+  Mormon, but it may be possible to crib some of the layout for our own purpose
+  here.
+- [Annotated Book of
+  Mormon](https://annotatededitionofthebookofmormon.wordpress.com/2018/08/31/annotated-edition-of-the-book-of-mormon/)
+  is a much more faith-promoting edition of the Book of Mormon, that aims to
+  show the Book of Mormon is about Christ, and founded in Biblical prophecies.
+  The book is a physical, hard cover book, and so not quite what I'm trying to
+  do here, but it's comments on how the text has been re-formatted (see images
+  in this repo) are probably in line with what I hope to accomplish.
+- The [Iron Rod ASCII Scipture](http://ldsguy.tripod.com/Iron-rod/) has a copy
+  of the Standard Works in text form.
+- The HTML5 elemect `<aside>` seems to have been created for sidenotes  like I
+  want to create (among other uses).
+- [Custom Span Class Markdown
+  Extension](https://github.com/exaroth/mdx_custom_span_class) extends Markdown
+  to allow customized span classes to me added via Markdown
+- [mdx include](https://github.com/neurobin/mdx_include) allows Markdown files
+  to literally include other files. This may be helpful if I want to include
+  pieces from seperate places.
 
 ## Further Reading
 
