@@ -82,6 +82,7 @@ to later dis-intangle my notes from the source material.
   font that evokes an old time printer. I quite like it, but need to find a
   source for it.
   
+## Samples, Code
 
 <https://www.bookofmormonorigins.com/> provides an example of how the text
 might be combined with notiations. It's built using Ruby + GitBook (I'd rather
@@ -95,6 +96,12 @@ the Book of Mormon is about Christ, and founded in Biblical prophecies. The
 book is a physical, hard cover book, and so not quite what I'm trying to do
 here, but it's comments on how the text has been re-formatted (see images in
 this repo) are probably in line with what I hope to accomplish.
+
+The [Iron Rod ASCII Scipture](http://ldsguy.tripod.com/Iron-rod/) has a copy of
+the Standard Works in text form.
+
+The HTML5 elemect `<aside>` seems to have been created for sidenotes  like I
+want to create (among other uses).
 
 ## Further Reading
 
