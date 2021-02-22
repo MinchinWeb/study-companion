@@ -124,3 +124,7 @@ to later dis-intangle my notes from the source material.
 - [Learn about My Study
   Notebook](https://www.lds.org/topics/scriptures-and-study/study-tools?lang=eng)
   (LDS.org)
+  
+ ## See Also
+ 
+ - <https://github.com/MinchinWeb/minchin.pelican.readers.epub/> -- possible WIP implementation
